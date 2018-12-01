@@ -1,0 +1,3 @@
+/home/moein/CLionProjects/RAMWORLDCUP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/moein/CLionProjects/RAMWORLDCUP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/moein/CLionProjects/RAMWORLDCUP/cmake-build-debug/CMakeFiles/RAMWorldCup.dir

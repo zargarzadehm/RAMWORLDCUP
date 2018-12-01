@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/moein/CLionProjects/RAMWORLDCUP/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+stdbool.h
+-
+
